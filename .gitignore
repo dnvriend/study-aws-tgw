@@ -1,0 +1,6 @@
+.idea
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+id_rsa.pub
